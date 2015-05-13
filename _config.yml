@@ -1,22 +1,22 @@
 url: localhost:4000
-baseurl: 
+baseurl:
 
 # Site settings
 title: José Godoy
 email: jmartgod@gmail.com
-description: ""
+description: "Bienvenido a mi currículum"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
-  secondary: fec503  
+  secondary: fec503
   secondary-dark: 333
 
 # Team names, titles and social links
 people:
-# - name: 
-#   pic: 
-#   position: 
+# - name:
+#   pic:
+#   position:
 #   social:
 #     - title: twitter
 #       url: #
@@ -27,14 +27,14 @@ people:
 
 - name: José Godoy
   pic: 2
-  position: Psicología y Datos
+  position: No dudes en contactar conmigo.
   social:
     - title: twitter
-      url: godenoughfor
+      url: http://twitter.com/godenoughfor
     - title: facebook
       url: #
     - title: linkedin
-      url: jmartgod
+      url: https://es.linkedin.com/in/jmartgod
 
 # - name: Diana Petersen
 #   pic: 3
@@ -50,20 +50,20 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/godenoughfor
   - title: facebook
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/godenoughfor
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Capitá Alfons Vives, 28 4Izq
+  - line: Elche, ALICANTE 03201
 
 # Build settings
 markdown: kramdown
